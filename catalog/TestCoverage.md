@@ -1,6 +1,14 @@
 # Test Coverage
 
+## Target
 
+Implement comprehensive testing.
+
+## User Story
+
+As a software developer, I want to ensure my code passes comprehensive tests, so that new bugs are minimized.
+
+## Card
 
 | Score         | Description |
 | :-------------: | :------------- |

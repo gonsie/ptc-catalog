@@ -1,5 +1,9 @@
 # Using Issues on GitHub/GitLab for Design and Development
 
+## Target
+
+All team members are capable using issues as part of the design and development process.
+
 ## User Story
 
 As a software engineer I want my small team to use issues for developing new modules and capabilities so that we can keep track of design ideas and implementations.
